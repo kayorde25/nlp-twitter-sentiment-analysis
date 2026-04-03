@@ -149,7 +149,15 @@ The following models were evaluated:
 ## Results
 
 - Logistic Regression and Linear SVM achieved the best performance  
-- Naive Bayes provided a fast but slightly weaker baseline  
+- Naive Bayes provided a fast but slightly weaker baseline
+
+- ## Visualization
+
+### Model Comparison
+![Model Comparison](outputs/model_comparison.png)
+
+### Confusion Matrix
+![Confusion Matrix](outputs/confusion_matrix.png)
 
 ### Key Observations
 
