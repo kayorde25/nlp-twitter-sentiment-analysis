@@ -194,7 +194,11 @@ To reproduce this project:
 ### Step 1 — Get Kaggle API Key
 
 1. Go to https://www.kaggle.com/account  
-2. Click **Create New API Token**  
+2. Click **Create New API Token**
+   
+Alternatively, you may run the following command:
+!kaggle datasets download -d crowdflower/twitter-airline-sentiment -p data
+ 
 
 ---
 
